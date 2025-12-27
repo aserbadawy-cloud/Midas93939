@@ -79,11 +79,11 @@ local function runAttack()
 end
 
 local MainTab = Window:Tab({ Title = "Farming", Icon = "solar:home-2-bold" })
-local BuyTab = Window:Tab({ Title = "Buy", Icon = "solar:home-2-bold" })
-local HacksTab = Window:Tab({ Title = "Hacks", Icon = "solar:home-2-bold" })
+local BuyTab = Window:Tab({ Title = "Buy", Icon = "solar:cart-large-2-bold" })
+local HacksTab = Window:Tab({ Title = "Hacks", Icon = "solar:code-bold" })
 local HelpTab = Window:Tab({ Title = "Info", Icon = "solar:help-bold" })
-
 MainTab:Section({ Title = "Master Control" })
+
 MainTab:Toggle({
     Title = "Enable Auto-Farm",
     Value = false,
