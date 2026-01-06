@@ -3,7 +3,7 @@ local StarterGui = game:GetService("StarterGui")
 -- Configuration: [ID] = "GitHub Raw Link"
 local gameScripts = {
     [7498898979]     = "https://raw.githubusercontent.com/aserbadawy-cloud/Midas93939/refs/heads/main/Premium.lua", -- Added your new ID
-    [9098443082]      = "https://raw.githubusercontent.com/User/Repo/main/script2.lua"
+    [9098443082]      = "https://raw.githubusercontent.com/aserbadawy-cloud/Midas93939/refs/heads/main/Dive.lua"
 }
 
 -- Function to show an on-screen notification
