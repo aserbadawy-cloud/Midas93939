@@ -43,6 +43,6 @@ if scriptToLoad then
         
     end
 else
-    -- 
+    
     notify("Not Configured", "Place: " .. tostring(currentPlaceId) .. " | Uni: " .. tostring(currentUniverseId))
 end
